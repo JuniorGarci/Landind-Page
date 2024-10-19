@@ -17,6 +17,7 @@ const LandingPage = () => {
             <a href="https://ui-nodo-dev.azurewebsites.net/login" target="_blank" className="bg-[#E0793F] text-white px-4 py-2 rounded-md hover:bg-orange-600">
               Iniciar Sesión
             </a>
+            
           </nav>
         </div>
       </header>
