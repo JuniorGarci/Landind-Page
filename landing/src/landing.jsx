@@ -14,7 +14,7 @@ const LandingPage = () => {
             <a href="#contact" className="text-gray-800 hover:text-[#E0793F] mx-4">
               Contacto
             </a>
-            <a href="#login" className="bg-[#E0793F] text-white px-4 py-2 rounded-md hover:bg-orange-600">
+            <a href="https://ui-nodo-dev.azurewebsites.net/login" target="_blank" className="bg-[#E0793F] text-white px-4 py-2 rounded-md hover:bg-orange-600">
               Iniciar Sesión
             </a>
           </nav>
